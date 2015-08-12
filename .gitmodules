@@ -1,0 +1,3 @@
+[submodule "tstsite"]
+	path = tstsite
+	url = https://github.com/DenisCherniatev/TestRepChild.git
